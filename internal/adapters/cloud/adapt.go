@@ -3,9 +3,9 @@ package cloud
 import (
 	"context"
 
-	"github.com/khulnasoft/defsec/pkg/state"
 	"github.com/khulnasoft-lab/tunnel-aws/internal/adapters/cloud/aws"
 	"github.com/khulnasoft-lab/tunnel-aws/internal/adapters/cloud/options"
+	"github.com/khulnasoft/defsec/pkg/state"
 )
 
 // Adapt ...
