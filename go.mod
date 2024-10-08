@@ -42,7 +42,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.26.0
 	github.com/aws/aws-sdk-go-v2/service/sns v1.26.6
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.29.6
-	github.com/aws/aws-sdk-go-v2/service/sts v1.26.6
+	github.com/aws/aws-sdk-go-v2/service/sts v1.32.2
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.35.6
 	github.com/liamg/iamgo v0.0.9
 	github.com/sirupsen/logrus v1.9.3
