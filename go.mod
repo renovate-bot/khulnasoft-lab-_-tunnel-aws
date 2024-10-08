@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.16.13
 	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.26.7
 	github.com/aws/aws-sdk-go-v2/service/apigateway v1.21.6
-	github.com/aws/aws-sdk-go-v2/service/apigatewayv2 v1.18.6
+	github.com/aws/aws-sdk-go-v2/service/apigatewayv2 v1.24.2
 	github.com/aws/aws-sdk-go-v2/service/athena v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.32.5
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.35.6
