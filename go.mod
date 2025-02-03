@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/aquasecurity/defsec v0.94.1
-	github.com/aquasecurity/go-mock-aws v0.0.0-20240109054747-49e4b5da33cb
+	github.com/aquasecurity/go-mock-aws 5c48a1da11ab
 	github.com/aws/aws-sdk-go v1.45.15
 	github.com/aws/aws-sdk-go-v2 v1.24.1
 	github.com/aws/aws-sdk-go-v2/config v1.26.2
